@@ -34,13 +34,13 @@ title: Chinese Overseas Buyers in U.S. Housing Markets
 doi: ""
 featured: true
 tags:
-  - RealEstate
+  - HouseholdFinance; RealEstate;
 categories: []
 projects:
   - First-YearSummerPaper
 image:
   caption: ""
-  focal_point: ""
+  focal_point: SMART
   preview_only: false
   filename: featured.png
 date: 2021-09-10T16:00:00.000Z
