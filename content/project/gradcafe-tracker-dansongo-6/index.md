@@ -1,6 +1,6 @@
 ---
 title: GradCafe Tracker (DansonGo 6)
-subtitle: A simple program that can keep tracking new admission results on GradCafe.
+subtitle: ""
 date: 2020-01-13T17:00:27.719Z
 draft: false
 featured: false
@@ -19,3 +19,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+A simple program that can keep tracking new admission results on GradCafe.
