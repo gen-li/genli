@@ -1,5 +1,5 @@
 ---
-slides: example
+# slides: 
 url_pdf: ""
 title: Extract TAQ data from WRDS Cloud via terminal
 date: 2020-02-01T17:00:00.000Z
