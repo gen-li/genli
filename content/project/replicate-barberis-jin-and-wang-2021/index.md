@@ -3,6 +3,10 @@ title: Replicate Barberis, Jin, and Wang (2021)
 date: 2021-03-31T16:00:43.502Z
 draft: false
 featured: false
+tags:
+  - julia
+  - python
+categories: []
 external_link: https://github.com/gen-li/Replic_barberis_jin_wang_2021
 links:
   - url: https://github.com/gen-li/Replic_barberis_jin_wang_2021
