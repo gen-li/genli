@@ -14,10 +14,10 @@ social:
     icon_pack: fas
     link: "mailto: gen.li@sauder.ubc.ca"
   - icon: twitter
-    icon_pack: ai
+    icon_pack: twitter
     link: https://twitter.com/GenLiYale
   - icon: github
-    icon_pack: ai
+    icon_pack: github
     link: https://github.com/gen-li
   - icon: linkedin
     icon_pack: fab
