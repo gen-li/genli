@@ -1,10 +1,10 @@
 ---
 title: Chinese Overseas Buyers in U.S. Housing Markets
+subtitle: d
 publication_types:
   - "3"
 authors:
   - Gen Li
-doi: ""
 publication_short: ""
 abstract: >-
   Using around 8 million housing transactions in California from 1994 to 2017, I
@@ -25,25 +25,26 @@ abstract: >-
   DID estimation, I explore the influence of COBs on U.S. local housing prices.
 draft: false
 featured: false
-tags:
-  - Household Finance; Real Estate;
 categories: []
+projects:
+  - First-Year Summer Paper
 slides: CONTENT
 url_pdf: ""
-image:
-  caption: ""
-  focal_point: CENTER
-  preview_only: false
-  filename: featured.png
 summary: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 author_notes: []
+doi: ""
 publication: First-year Summer Paper
-projects:
-  - First-Year Summer Paper
+tags:
+  - Household Finance; Real Estate;
+image:
+  caption: ""
+  focal_point: CENTER
+  preview_only: false
+  filename: featured.png
 date: 2021-09-10T16:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
