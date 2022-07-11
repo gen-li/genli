@@ -3,9 +3,10 @@ title: Option Pricing with Monte Carlo Simulation under Heston Stochastic
   Volatility Model
 date: 2017-03-20T16:00:07.917Z
 draft: false
-featured: false
+featured: true
 tags:
   - matlab
+external_link: https://github.com/gen-li/DansonGo
 links:
   - url: https://github.com/gen-li/DansonGo
     name: GitHub

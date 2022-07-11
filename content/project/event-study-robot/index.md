@@ -5,8 +5,9 @@ draft: false
 featured: false
 tags:
   - matlab
+external_link: https://github.com/gen-li/DansonGo3  
 links:
-  - url: https://github.com/gen-li/DansonGo3
+  - url: "https://github.com/gen-li/DansonGo3"
     name: GitHub
     icon_pack: fab
     icon: github
