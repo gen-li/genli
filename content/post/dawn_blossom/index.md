@@ -7,7 +7,7 @@ draft: false
 featured: false
 authors:
   - admin
-lastmod: null
+lastmod: 2020-05-05T16:00:00.000Z
 external_link: https://som.yale.edu/blog/dawn-blossoms-plucked-at-dusk-my-life-at-yale
 tags: null
 categories: null
