@@ -35,18 +35,17 @@ doi: ""
 featured: true
 tags:
   - RealEstate
-categories:
-  - d
+categories: []
 projects:
   - First-YearSummerPaper
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: did_purchase_price_by_year.png
+  filename: featured.png
 date: 2021-09-10T16:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
