@@ -1,6 +1,6 @@
 ---
 title: Replicate Barberis, Jin, and Wang (2021)
-date: 2022-07-11T06:44:43.502Z
+date: 2021-03-31T16:00:43.502Z
 draft: false
 featured: false
 external_link: https://github.com/gen-li/Replic_barberis_jin_wang_2021
