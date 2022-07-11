@@ -1,6 +1,6 @@
 ---
 title: Chinese Overseas Buyers in U.S. Housing Markets
-subtitle: d
+subtitle: 
 publication_types:
   - "3"
 authors:
@@ -9,7 +9,7 @@ publication_short: ""
 abstract: 
   Using around 8 million housing transactions in California from 1994 to 2017, I find that Chinese overseas buyers (COB) earn 4.5% lower returns than other cash buyers, controlling for market timing and location factors. The large gap in housing returns is driven by purchase prices instead of sale prices. Controlling cash payment benefits, property, and market timing, COB will pay 8-12% higher prices than other cash buyers. By implementing DID event study and two-way fixed effects DID models, I find that 10% overpayment can be explained by the lack of investment opportunities arising from home-purchase restrictions in China. The remaining overpayment can be due to cultural differences. Combining IV and DID estimation, I explore the influence of COBs on U.S. local housing prices.
 draft: false
-featured: true
+featured: false
 categories: []
 projects:
   - First-Year Summer Paper
