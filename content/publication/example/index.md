@@ -21,7 +21,7 @@ url_pdf: ""
 publication_types:
   - "3"
 authors:
-  - GenLi
+  - Gen Li
 author_notes: []
 publication: First-year Summer Paper
 summary: ""
