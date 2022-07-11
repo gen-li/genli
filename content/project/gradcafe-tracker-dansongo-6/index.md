@@ -7,15 +7,15 @@ featured: false
 authors:
   - Gen Li
 tags:
-  - Python
+  - python
 external_link: https://github.com/gen-li/DansonGo_6
 links:
   - url: https://github.com/gen-li/DansonGo_6
     name: GitHub
-    icon_pack: far
+    icon_pack: fab
     icon: github
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
