@@ -1,87 +1,59 @@
 ---
-title: 'An example conference paper'
+abstract: >-
+  Using around 8 million housing transactions in California from 1994 to 2017, I
+  find that Chinese over-
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+  seas buyers (COB) earn 4.5% lower returns than other cash buyers, controlling for market timing and
+
+  location factors. The large gap in housing returns is driven by purchase prices instead of sale prices.
+
+  Controlling cash payment benefits, property, and market timing, COB will pay 8-12% higher prices than
+
+  other cash buyers. By implementing DID event study and two-way fixed effects DID models, I find that
+
+  10% overpayment can be explained by the lack of investment opportunities arising from home-purchase
+
+  restrictions in China. The remaining overpayment can be due to cultural differences. Combining IV and
+
+  DID estimation, I explore the influence of COBs on U.S. local housing prices.
+slides: Slides
+url_pdf: ""
+publication_types:
+  - "3"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - GenLi
+author_notes: []
+publication: First-year Summer Paper
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Chinese Overseas Buyers in U.S. Housing Markets
+doi: ""
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+tags:
+  - RealEstate
+categories:
+  - d
 projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  - First-YearSummerPaper
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  filename: did_purchase_price_by_year.png
+date: 2021-09-10T16:00:00.000Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Using around 8 million housing transactions in California from 1994 to 2017, I find that Chinese overseas buyers (COB) earn 4.5% lower returns than other cash buyers, controlling for market timing and
+location factors. The large gap in housing returns is driven by purchase prices instead of sale prices.
+Controlling cash payment benefits, property, and market timing, COB will pay 8-12% higher prices than
+other cash buyers. By implementing DID event study and two-way fixed effects DID models, I find that
+10% overpayment can be explained by the lack of investment opportunities arising from home-purchase
+restrictions in China. The remaining overpayment can be due to cultural differences. Combining IV and
+DID estimation, I explore the influence of COBs on U.S. local housing prices.
