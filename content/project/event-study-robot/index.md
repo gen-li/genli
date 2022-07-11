@@ -3,6 +3,8 @@ title: Event Study Robot
 date: 2017-01-01T17:00:01.356Z
 draft: false
 featured: false
+tags:
+  - matlab
 links:
   - url: https://github.com/gen-li/DansonGo3
     name: GitHub
