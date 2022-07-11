@@ -12,7 +12,7 @@ external_link: https://github.com/gen-li/DansonGo_6
 links:
   - url: https://github.com/gen-li/DansonGo_6
     name: GitHub
-    icon_pack: ai
+    icon_pack: far
     icon: github
 image:
   filename: featured
