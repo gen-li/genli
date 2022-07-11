@@ -1,43 +1,21 @@
 ---
-title: “Dawn Blossoms Plucked at Dusk” (朝花夕拾)
-subtitle: My Life at Yale
-
-# Summary for listings and search engines
-summary: 
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: '2020-05-05T00:00:00Z'
-
-# Date updated
-lastmod: 
-
-# Is this an unpublished draft?
+title: “Dawn Blossoms Plucked at Dusk” (朝花夕拾) --- My Life at Yale
+subtitle: ""
+date: 2020-05-05T16:00:00.000Z
+summary: null
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: ''
-  focal_point: ''
-  placement: 2
-  preview_only: false
-
 authors:
   - admin
-
-
-tags:
-
-
-categories:
-
+lastmod: null
 external_link: https://som.yale.edu/blog/dawn-blossoms-plucked-at-dusk-my-life-at-yale
-
+tags: null
+categories: null
+projects: []
+image:
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: false
 ---
-
+   “Dawn Blossoms Plucked at Dusk” (朝花夕拾) --- My Life at Yale
