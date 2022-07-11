@@ -1,16 +1,17 @@
 ---
 slides: example
 url_pdf: ""
+title: Extract TAQ data from WRDS Cloud via terminal
+date: 2020-02-01T17:00:00.000Z
 summary: ""
 authors:
   - Gen Li
 url_video: ""
-date: 2020-02-01T17:00:00.000Z
-external_link: https://github.com/gen-li/Extract_TAQ_from_WRDS_Cloud
-url_slides: ""
-title: Extract TAQ data from WRDS Cloud via terminal
+featured: true
 tags:
   - TAQ
+external_link: https://github.com/gen-li/Extract_TAQ_from_WRDS_Cloud
+url_slides: ""
 links:
   - icon: github
     icon_pack: fab
@@ -18,7 +19,7 @@ links:
     url: https://github.com/gen-li/Extract_TAQ_from_WRDS_Cloud
 image:
   caption: ""
-  focal_point: Smart
+  focal_point: ""
 url_code: ""
 ---
 ## Description
@@ -37,4 +38,3 @@ A simple SAS program that can extract TAQ data from WRDS cloud for a list of com
    ```
 
    (check [here](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/running-jobs/batch-jobs-wrds-cloud/) for how to use batch jobs on the WRDS Cloud)
-5.
