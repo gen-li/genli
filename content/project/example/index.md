@@ -21,3 +21,4 @@ image:
   focal_point: ""
 url_code: ""
 ---
+A simple SAS program that can extract TAQ data from WRDS cloud for a list of companies on particular dates during specific time periods.
