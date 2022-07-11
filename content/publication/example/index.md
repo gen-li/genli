@@ -14,7 +14,7 @@ categories: [Housing]
 projects:
   - First-Year Summer Paper
 slides: CONTENT
-url_pdf: "https://www.dropbox.com/sh/urz2fv0cbi8fv8b/AAB14WOnlh4b2YvgZRS0t_tIa?dl=0"
+url_pdf: "https://www.dropbox.com/s/m5uelkacwq2qd14/Chinese_overseas_buyers_in_US_housing_market.pdf?dl=0"
 summary: ""
 url_dataset: ""
 url_project: ""
