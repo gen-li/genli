@@ -5,10 +5,10 @@ avatar_filename: avata.jpg
 bio: My research interests include empirical asset pricing, household finance,
   corporate finance.
 interests:
-  - empirical asset pricing
-  - investor behavior
-  - household finance
-  - corporate finance
+  - Empirical asset pricing
+  - Investor behavior
+  - Household finance
+  - Corporate finance
 social:
   - icon: envelope
     icon_pack: fas
