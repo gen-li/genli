@@ -23,12 +23,12 @@ abstract: >-
   restrictions in China. The remaining overpayment can be due to cultural differences. Combining IV and
 
   DID estimation, I explore the influence of COBs on U.S. local housing prices.
-draft: true
-featured: true
+draft: false
+featured: false
 tags:
   - Household Finance; Real Estate;
 categories: []
-slides: Slides
+slides: CONTENT
 url_pdf: ""
 image:
   caption: ""
