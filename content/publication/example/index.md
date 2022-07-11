@@ -28,8 +28,8 @@ featured: true
 tags:
   - Household Finance; Real Estate;
 categories: []
-slides: Slides
-url_pdf: "https://www.dropbox.com/sh/urz2fv0cbi8fv8b/AAB14WOnlh4b2YvgZRS0t_tIa?dl=0"
+slides: 
+url_pdf: ""
 image:
   caption: ""
   focal_point: CENTER
@@ -37,7 +37,7 @@ image:
   filename: featured.png
 summary: ""
 url_dataset: ""
-url_project: ""
+url_project: "https://www.dropbox.com/sh/urz2fv0cbi8fv8b/AAB14WOnlh4b2YvgZRS0t_tIa?dl=0"
 url_source: ""
 url_video: ""
 author_notes: []
