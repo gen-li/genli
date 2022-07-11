@@ -1,4 +1,11 @@
 ---
+title: Chinese Overseas Buyers in U.S. Housing Markets
+publication_types:
+  - "3"
+authors:
+  - Gen Li
+doi: ""
+publication_short: ""
 abstract: >-
   Using around 8 million housing transactions in California from 1994 to 2017, I
   find that Chinese over-
@@ -16,33 +23,27 @@ abstract: >-
   restrictions in China. The remaining overpayment can be due to cultural differences. Combining IV and
 
   DID estimation, I explore the influence of COBs on U.S. local housing prices.
-slides: Slides
-url_pdf: ""
-publication_types:
-  - "3"
-authors:
-  - Gen Li
-author_notes: []
-publication: First-year Summer Paper
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: ""
-url_source: ""
-url_video: ""
-title: Chinese Overseas Buyers in U.S. Housing Markets
-doi: ""
+draft: false
 featured: true
 tags:
   - Household Finance; Real Estate;
 categories: []
-projects:
-  - First-Year Summer Paper
+slides: Slides
+url_pdf: ""
 image:
   caption: ""
   focal_point: CENTER
   preview_only: false
   filename: featured.png
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+publication: First-year Summer Paper
+projects:
+  - First-Year Summer Paper
 date: 2021-09-10T16:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
