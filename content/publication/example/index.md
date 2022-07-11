@@ -24,7 +24,9 @@ author_notes: []
 doi: ""
 publication: First-year Summer Paper
 tags:
-  - Household Finance; Housing;
+  - Household Finance
+  - Housing
+  - Chinese
 image:
   caption: ""
   focal_point: CENTER
