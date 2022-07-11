@@ -9,9 +9,10 @@ authors:
 url_video: ""
 featured: true
 tags:
-  - TAQ
-external_link: https://github.com/gen-li/Extract_TAQ_from_WRDS_Cloud
+  - SAS
+external_link: ""
 url_slides: ""
+categories: []
 links:
   - icon: github
     icon_pack: fab
