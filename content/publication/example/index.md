@@ -29,7 +29,7 @@ tags:
   - Household Finance; Real Estate;
 categories: []
 slides: Slides
-url_pdf: ""
+url_pdf: "https://www.dropbox.com/sh/urz2fv0cbi8fv8b/AAB14WOnlh4b2YvgZRS0t_tIa?dl=0"
 image:
   caption: ""
   focal_point: CENTER
