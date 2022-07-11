@@ -5,40 +5,37 @@ avatar_filename: img_1088_sqr.jpg
 bio: My research interests include empirical asset pricing, household finance,
   corporate finance.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - empirical asset pricing
+  - investor behavior
+  - household finance
+  - corporate finance
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    icon_pack: ai
+    link: https://twitter.com/GenLiYale
   - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    icon_pack: ai
+    link: https://github.com/gen-li
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/gen-li-finance/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of British Columbia (UBC)
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Finance
+      institution: The University of British Columbia (UBC)
+      year: ""
+    - course: Pre-Doctoral Research Associate
+      institution: Yale University
+      year: ""
+    - course: Master's degree
+      institution: University of California San Diego (UCSD)
+      year: ""
+email: gen.li@sauder.ubc.ca
 superuser: true
 highlight_name: true
 ---
