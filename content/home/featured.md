@@ -7,7 +7,7 @@ title: Working Projects
 subtitle: ""
 content:
   page_type: publication
-  count: 0
+  count: 20
   filters:
     author: ""
     category: ""
