@@ -1,7 +1,7 @@
 ---
 title: Gen Li
 role: "Finance Ph.D. student "
-avatar_filename: avata.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include empirical asset pricing, household finance,
   corporate finance.
 interests:
