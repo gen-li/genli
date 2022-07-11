@@ -28,7 +28,7 @@ featured: true
 tags:
   - Household Finance; Real Estate;
 categories: []
-slides: 
+slides: Slides
 url_pdf: ""
 image:
   caption: ""
