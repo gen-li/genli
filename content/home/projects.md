@@ -12,10 +12,16 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Python
+      tag: python
+    - name: Stata
+      tag: stata
+    - name: SAS
+      tag: sas
+    - name: Julia
+      tag: julia
+    - name: Matlab  
+      tag: matlab                     
 design:
   columns: "2"
   view: 2
