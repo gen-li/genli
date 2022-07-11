@@ -1,14 +1,13 @@
 ---
-# slides: 
 url_pdf: ""
-title: Extract TAQ data from WRDS Cloud via terminal
 date: 2020-02-01T17:00:00.000Z
 summary: ""
 authors: []
 url_video: ""
+title: Extract TAQ data from WRDS Cloud via terminal
 featured: true
 tags:
-  - SAS
+  - sas
 external_link: ""
 url_slides: ""
 categories: []
