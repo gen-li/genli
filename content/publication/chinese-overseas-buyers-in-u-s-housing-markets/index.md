@@ -1,5 +1,5 @@
 ---
-title: example
+title: test
 subtitle: d
 publication_types:
   - "3"
