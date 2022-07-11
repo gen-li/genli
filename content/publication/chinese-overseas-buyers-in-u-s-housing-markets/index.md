@@ -1,5 +1,5 @@
 ---
-title: Chinese Overseas Buyers in U.S. Housing Markets
+title: example
 subtitle: d
 publication_types:
   - "3"
