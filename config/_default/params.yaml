@@ -22,6 +22,7 @@ marketing:
     twitter: ''
   analytics:
     google_analytics: 'G-GN2678T34V'
+    google_tag_manager: 'GTM-M2C8JHS'
     baidu_tongji: ''
   verification:
     google: ''
