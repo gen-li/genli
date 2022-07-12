@@ -5,3 +5,20 @@ type: widget_page
 # Homepage is headless, other widget pages are not.
 headless: true
 ---
+<!-- Default Statcounter code for My website
+https://www.gen-li.com -->
+<script type="text/javascript">
+var sc_project=12003296; 
+var sc_invisible=1; 
+var sc_security="442d99d6"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - Statcounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12003296/0/442d99d6/1/"
+alt="Web Analytics Made Easy - Statcounter"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
